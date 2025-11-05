@@ -56,7 +56,6 @@ app.*.map.json
 firebase.json
 android/app/google-services.json
 
-
 # Archivos de firma de Android (si los usas)
 android/key.properties
 *.keystore
